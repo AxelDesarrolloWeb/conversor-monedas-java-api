@@ -16,7 +16,7 @@ Aplicación de conversión de monedas que utiliza tasas de cambio en tiempo real
 1. Clonar el repositorio
 2. Importar el proyecto en tu IDE
 3. Agregar gson-2.10.1.jar al classpath
-4. Ejecutar la clase `com.alvax.conversor.App`
+4. Ejecutar la clase `com.alvax.conversorMonedas.App`
 
 ## Licencia
 MIT License
